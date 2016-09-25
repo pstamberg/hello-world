@@ -3,3 +3,4 @@
 Tere,
 Katsetan GitHubi.
 uuesti
+Ja veelkord
